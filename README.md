@@ -1,4 +1,5 @@
-# CodeAlpha_projectName
+# CodeAlpha_tasks
+
 # CodeAlpha Cyber Security Internship
 
 This repository contains the tasks completed as part of my CodeAlpha Cyber Security Internship.
